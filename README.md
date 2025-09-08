@@ -67,7 +67,7 @@
 
 - Regional breakdown of high-value loan approvals.
 
-👉 interactive Power BI Dashboard![screenshot(495)]()
+👉 interactive Power BI Dashboard![screenshot(495)](https://github.com/maheshyadavbattu/-Predictive-Insights-into-High-Value-Home-Loan-Approvals-Using-Power-BI-/blob/main/Dashboard%20view.png)
 
 # Business Impact
 
